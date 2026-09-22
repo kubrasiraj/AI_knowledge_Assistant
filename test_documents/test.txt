@@ -1,0 +1,6 @@
+NovaStack Technologies
+
+Remote work is allowed for eligible employees.
+Employees can request up to 20 remote work days per quarter.
+
+The engineering team follows code review before production deployment.
